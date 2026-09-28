@@ -1,2 +1,5 @@
-# hw2_simple_css
-Starter code for simple css assignment
+# SI 539 Homework 2: Simple CSS
+
+This project styles the supplied Uno page using `css/style.css`. The HTML body and `css/html5reset.css` remain unchanged from the [course starter repository](https://github.com/UMSIComplexWebDesign/hw2_simple_css).
+
+Open `index.html` to preview the page locally. GitHub Pages publishing is pending user review of the completed page.
