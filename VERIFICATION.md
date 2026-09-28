@@ -8,4 +8,4 @@ Checked on September 27, 2026:
 - The page renders at a 1200px browser viewport and in Safari on the iPhone 15 Pro iOS 17.5 simulator.
 - The browser parsed all 15 stylesheet rules, and computed colors and the footer gradient match the assignment values.
 
-GitHub Pages publishing and Canvas submission are pending the user's review and approval of this version.
+The first published version was accepted by the user and submitted to Canvas. The autograder returned 75/100 and identified the font-family declaration and four colored-section border declarations. This branch makes those declarations explicit. The revised version awaits user review before publishing and resubmission.
