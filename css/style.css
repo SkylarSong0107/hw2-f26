@@ -44,6 +44,7 @@ div {
   background-color: #ff0000;
   text-align: right;
   margin-left: 50px;
+  border-top: 0;
   border-bottom: 2px solid #ffffff;
   border-left: 5px solid #ffffff;
 }
@@ -54,6 +55,7 @@ div {
   margin-right: 50px;
   border-right: 5px solid #ffffff;
   border-top: 2px solid #ffffff;
+  border-bottom: 0;
 }
 
 .blue h2,
@@ -65,6 +67,7 @@ div {
   background-color: #ffff00;
   text-align: right;
   margin-left: 50px;
+  border-top: 0;
   border-bottom: 2px solid #ffffff;
   border-left: 5px solid #ffffff;
 }
